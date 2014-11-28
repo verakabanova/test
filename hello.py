@@ -1,1 +1,2 @@
+#komentar
 print ("hello")
